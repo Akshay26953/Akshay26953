@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+![AKSHAY KHARAT](https://user-images.githubusercontent.com/105079022/191050777-1586f978-5ca8-460d-ab38-ce51f25b7983.gif)
 
 **Akshay26953/akshay26953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank"><img src="[http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)"/></a>
 
 <!-- Here are some ideas to get you started:
-
+https://www.linkedin.com/in/kharatakshay/
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,8 +16,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 <img src="{BadgeURLHere}" /> -->
+
+
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">]([http://example.com/](https://www.instagram.com/a.k.5.3/))
 
 **WEB TECH STACK:**
 
