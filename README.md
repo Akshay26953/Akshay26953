@@ -19,7 +19,7 @@ https://www.linkedin.com/in/kharatakshay/
 <img src="{BadgeURLHere}" /> -->
 
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">]([http://example.com/](https://www.instagram.com/a.k.5.3/))
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/a.k.5.3/)
 
 **WEB TECH STACK:**
 
