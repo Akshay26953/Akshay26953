@@ -18,6 +18,7 @@ https://www.linkedin.com/in/kharatakshay/
 - ⚡ Fun fact: ...
 <img src="{BadgeURLHere}" /> -->
 
+<a href="https://www.instagram.com/a.k.5.3/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://www.instagram.com/a.k.5.3/)
 
