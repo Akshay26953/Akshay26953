@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
+
 **Akshay26953/akshay26953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank"><img src="[http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)"/></a>
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,9 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" /> -->
 
 **WEB TECH STACK:**
 
