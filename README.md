@@ -1,29 +1,25 @@
 ![AKSHAY KHARAT](https://github.com/user-attachments/assets/70f89053-0747-45f9-a564-16c0ecf79a5b)
 
 
-**<h3 align="center">⚜ Work Today For Better Tomorrow ⚜</h3>**
+**<h2 align="center">⚜ Work Today For Better Tomorrow ⚜</h2>**
 
-**😁 Something About ME:**
+**<h3>😁 Something About ME:</h3>**
 
-🌱  Full stack developer
+👋 Hi, I’m Akshay Kharat, a passionate Full Stack Developer dedicated to building innovative web applications and AI tools.
 
-✔   Front End Technologies
-
-✔   Back End Technologies
-
-🔜  Currently working on AI tools 
-
-
+🌱 I specialize in **Front-End** and **Back-End technologies**, crafting seamless user experiences with modern frameworks and efficient server-side solutions.
 
 
 **<h4>🤝 Lets Connect On:</h4>**
 
-<a href="https://www.instagram.com/a.k.5.3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href="https://www.instagram.com/a.k.s.h.a.y.2_6/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/kharatakshay/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:amkharat2695@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://x.com/i/flow/login?redirect_after_login=%2Faakshaykharat"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://x.com/aakshaykharat"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 
 
+
+**<h3>⚙️ Tech Stack Highlights:</h3>**
 
 **💻 Web Tech Stack:**
 
