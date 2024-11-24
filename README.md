@@ -1,15 +1,17 @@
-![AKSHAY KHARAT](https://user-images.githubusercontent.com/105079022/191050777-1586f978-5ca8-460d-ab38-ce51f25b7983.gif)
+![AKSHAY KHARAT](https://github.com/user-attachments/assets/70f89053-0747-45f9-a564-16c0ecf79a5b)
+
 
 **<h3 align="center">⚜ Work Today For Better Tomorrow ⚜</h3>**
 
 **😁 Something About ME:**
 
-🌱  Aspiring MERN stack developer
+🌱  Full stack developer
 
 ✔   Front End Technologies
 
-🔜  Currently working on Back End Technologies
+✔   Back End Technologies
 
+🔜  Currently working on AI tools 
 
 
 
@@ -34,7 +36,7 @@
 
 **🎨 Design Tools:**
 
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
 
 <!-- Logo Badges
  https://github.com/alexandresanlim/Badges4-README.md-Profile#-community- -->
